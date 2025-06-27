@@ -18,13 +18,13 @@ The code is written in Python and uses the [TensorFlow](https://www.tensorflow.o
 
 ### Downloading the dataset
 
-Download the ImageNet dataset from [here](http://image-net.org/download-images).
+Download the ImageNet dataset from [click to see here](http://image-net.org/download-images).
 
 ### Training the models
 
 To train the models, run the following command:
 
-```
+```bash
 python train.py
 ```
 
